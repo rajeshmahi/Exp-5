@@ -18,8 +18,8 @@ Step 6: Get contact details and Display details give in the MainActivity file.
 Step 7: Save and run the application
 ### PROGRAM:
 ```
-DEVELOPED BY:Jagan S
-REGISTER NUMBER:212221040061
+DEVELOPED BY:Rajesh K
+REGISTER NUMBER:212221220041
 ```
 ### activity_main.xml
 ```
